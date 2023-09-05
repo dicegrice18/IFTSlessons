@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davide.melia\\source\\repos\\IFTSlessons\\ConsoleApp1\\ObjectLesson.csproj",
-      "projectName": "ObjectLesson",
-      "projectPath": "C:\\Users\\davide.melia\\source\\repos\\IFTSlessons\\ConsoleApp1\\ObjectLesson.csproj",
+      "projectUniqueName": "C:\\Users\\davide.melia\\Source\\Repos\\ITS.2023.Lessons\\DirittiUmaniUnioneEuropea\\DirittiUmaniUnioneEuropea.csproj",
+      "projectName": "DirittiUmaniUnioneEuropea",
+      "projectPath": "C:\\Users\\davide.melia\\Source\\Repos\\ITS.2023.Lessons\\DirittiUmaniUnioneEuropea\\DirittiUmaniUnioneEuropea.csproj",
       "packagesPath": "C:\\Users\\davide.melia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\davide.melia\\source\\repos\\IFTSlessons\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\davide.melia\\Source\\Repos\\ITS.2023.Lessons\\DirittiUmaniUnioneEuropea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\davide.melia\\AppData\\Roaming\\NuGet\\NuGet.Config",

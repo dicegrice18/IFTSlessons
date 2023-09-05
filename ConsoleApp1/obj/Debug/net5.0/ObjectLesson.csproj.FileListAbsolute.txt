@@ -1,0 +1,15 @@
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\bin\Debug\net5.0\ObjectLesson.exe
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\bin\Debug\net5.0\ObjectLesson.deps.json
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\bin\Debug\net5.0\ObjectLesson.runtimeconfig.json
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\bin\Debug\net5.0\ObjectLesson.runtimeconfig.dev.json
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\bin\Debug\net5.0\ObjectLesson.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\bin\Debug\net5.0\ObjectLesson.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.AssemblyInfoInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.AssemblyInfo.cs
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.csproj.CoreCompileInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\refint\ObjectLesson.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ObjectLesson.genruntimeconfig.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\ConsoleApp1\obj\Debug\net5.0\ref\ObjectLesson.dll
