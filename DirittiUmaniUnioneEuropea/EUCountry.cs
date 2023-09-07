@@ -4,8 +4,9 @@ using System.Linq;
 
 namespace Polimorfismo
 {
-    public class EUCountry : Country, IEuropeanUnion
+    public class EUCountry : ONUCountry, IEuropeanUnion
     {
+        public static int Popolazione = 0;
         // UE Contracts
         public void HumanRights() { }
         public void ConstitutionIntegration()
@@ -14,10 +15,16 @@ namespace Polimorfismo
             Console.WriteLine($"{Name} -  {Constitution}");
         }
 
-        public EUCountry(string Name, string State, string Government, string Constitution) :
-            base(Name, State, Government, Constitution)
+        public EUCountry(string Name, string State, string Government, string Constitution, int popolazione) :
+            base(Name, State, Government, Constitution, popolazione)
         {
+            Popolazione =+ popolazione;
             ConstitutionIntegration();
+        }
+
+        public void PermessoDiSoggiorno()
+        {
+            Console.WriteLine($"Activate residency permit for {Name}");
         }
 
 

@@ -1,0 +1,16 @@
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\bin\Debug\net5.0\MediaPlayer.exe
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\bin\Debug\net5.0\MediaPlayer.deps.json
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\bin\Debug\net5.0\MediaPlayer.runtimeconfig.json
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\bin\Debug\net5.0\MediaPlayer.runtimeconfig.dev.json
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\bin\Debug\net5.0\MediaPlayer.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\bin\Debug\net5.0\MediaPlayer.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.AssemblyInfoInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.AssemblyInfo.cs
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.sourcelink.json
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\refint\MediaPlayer.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\MediaPlayer.genruntimeconfig.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\MediaPlayer\obj\Debug\net5.0\ref\MediaPlayer.dll

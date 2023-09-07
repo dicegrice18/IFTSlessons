@@ -6,7 +6,7 @@ namespace Polimorfismo.Interfaces
 {
     class CapitalPunishmentCountry : Country, IONU, ICapitalPunishment
     {
-        public CapitalPunishmentCountry(string Name, string State, string Government, string Constitution) :
+        public CapitalPunishmentCountry(string Name, string State, string Government, string Constitution, string v) :
             base(Name, State, Government, Constitution)
         {
 

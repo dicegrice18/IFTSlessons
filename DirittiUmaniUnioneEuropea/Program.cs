@@ -27,7 +27,7 @@ namespace Polimorfismo
             StrasbourgCourt.HumanRightsInvestigation(USA);
             StrasbourgCourt.HumanRightsInvestigation(italy);
             StrasbourgCourt.HumanRightsInvestigation(Argentina);
-
+            ((EUCountry)italy).PermessoDiSoggiorno();
 
         }
 

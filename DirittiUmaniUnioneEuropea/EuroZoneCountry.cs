@@ -10,8 +10,8 @@ namespace Polimorfismo
         // EURO Contracts
         // EU Contracts 
 
-        public EuroZoneCountry(string Name, string State, string Government, string Constitution)
-            : base(Name, State, Government, Constitution)
+        public EuroZoneCountry(string Name, string State, string Government, string Constitution, int popolazione)
+            : base(Name, State, Government, Constitution, popolazione)
         {
 
         }

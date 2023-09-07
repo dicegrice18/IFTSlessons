@@ -1,0 +1,16 @@
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\bin\Debug\net5.0\DirittiUmaniUnioneEuropea.exe
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\bin\Debug\net5.0\DirittiUmaniUnioneEuropea.deps.json
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\bin\Debug\net5.0\DirittiUmaniUnioneEuropea.runtimeconfig.json
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\bin\Debug\net5.0\DirittiUmaniUnioneEuropea.runtimeconfig.dev.json
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\bin\Debug\net5.0\DirittiUmaniUnioneEuropea.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\bin\Debug\net5.0\DirittiUmaniUnioneEuropea.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.AssemblyInfoInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.AssemblyInfo.cs
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.csproj.CoreCompileInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.sourcelink.json
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\refint\DirittiUmaniUnioneEuropea.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\DirittiUmaniUnioneEuropea.genruntimeconfig.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\DirittiUmaniUnioneEuropea\obj\Debug\net5.0\ref\DirittiUmaniUnioneEuropea.dll

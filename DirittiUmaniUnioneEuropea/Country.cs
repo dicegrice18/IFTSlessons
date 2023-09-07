@@ -25,11 +25,13 @@ namespace Polimorfismo
             _government = Government;   
             _constitution = Constitution;
             ShowState();
+         
         }
         void ShowState()
         {          
             Console.WriteLine($"{Name} -  {Constitution}");
         }
+
 
     }
 }
