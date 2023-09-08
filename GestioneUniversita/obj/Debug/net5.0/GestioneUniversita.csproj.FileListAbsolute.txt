@@ -1,0 +1,16 @@
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\bin\Debug\net5.0\GestioneUniversita.exe
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\bin\Debug\net5.0\GestioneUniversita.deps.json
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\bin\Debug\net5.0\GestioneUniversita.runtimeconfig.json
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\bin\Debug\net5.0\GestioneUniversita.runtimeconfig.dev.json
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\bin\Debug\net5.0\GestioneUniversita.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\bin\Debug\net5.0\GestioneUniversita.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.AssemblyInfoInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.AssemblyInfo.cs
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.csproj.CoreCompileInputs.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.sourcelink.json
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\refint\GestioneUniversita.dll
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.pdb
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\GestioneUniversita.genruntimeconfig.cache
+C:\Users\davide.melia\source\repos\IFTSlessons\GestioneUniversita\obj\Debug\net5.0\ref\GestioneUniversita.dll
