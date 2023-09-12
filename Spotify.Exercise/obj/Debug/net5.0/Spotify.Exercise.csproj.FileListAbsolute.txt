@@ -1,0 +1,13 @@
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\bin\Debug\net5.0\Spotify.Exercise.deps.json
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\bin\Debug\net5.0\Spotify.Exercise.dll
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\bin\Debug\net5.0\Spotify.Exercise.pdb
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.csproj.AssemblyReference.cache
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.AssemblyInfoInputs.cache
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.AssemblyInfo.cs
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.sourcelink.json
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.dll
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\refint\Spotify.Exercise.dll
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\Spotify.Exercise.pdb
+C:\Users\davide.melia\Source\Repos\ITS.2023.Lessons\Spotify.Exercise\obj\Debug\net5.0\ref\Spotify.Exercise.dll
